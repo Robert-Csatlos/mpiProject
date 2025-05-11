@@ -2,6 +2,7 @@
 The files used for the MPI Project SAT algorithms analysis.
 
 ---PEREQUISITES---
+
 To run these programs you first need:
 dd and psutil
 
