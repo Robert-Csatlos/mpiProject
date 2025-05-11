@@ -6,11 +6,13 @@ The files used for the MPI Project SAT algorithms analysis.
 To run these programs you first need:
 dd and psutil
 
+
 How to install?
 
 Write these two commands in your terminal:
 
 pip install dd
+
 pip install psutil
 
 ---HOW TO USE---
