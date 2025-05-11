@@ -16,9 +16,15 @@ The test values made on other devices might be different from the values that I 
 
 
 ---MY HARDWARE---
+
 CPU: AMD Ryzen 9 5900X 12-Core Processor 4.18 GHz
+
 RAM:: 128 GB DDR4, 3200MHz
+
 GPU: MSI Nvidia Geforce RTX 3060 | 12GB
+
 SSD: 512GB + 2TB SSD
+
 HDD: 2TB
+
 OS: Windows 11 Pro 64X
