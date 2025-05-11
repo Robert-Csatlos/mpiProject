@@ -18,9 +18,13 @@ pip install psutil
 ---HOW TO USE---
 
 There are 4 folders, each with the corresponding algorithm.
+
 To test the algorithm specified in the folder, make sure that the only .py file in the folder is the one you want to test.
+
 Run the .py file using the terminal, VS-Code or the preffered IDE.
+
 Write (numbers only) how many time you want to repeat the algorithm in the session as "instances"
+
 Check the output.txt file for the output and the stats.txt file for the run-time and ram.
 
 
