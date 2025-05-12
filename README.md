@@ -32,6 +32,7 @@ Check the output.txt file for the output and the stats.txt file for the run-time
 
 The test values made on other devices might be different from the values that I got in the paper, since the PC's might have other components.
 
+the input output and stats text files don't need to be created, they are automatically created by the program if they don't exist already.
 
 ---MY HARDWARE---
 
