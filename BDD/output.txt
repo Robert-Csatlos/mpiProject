@@ -1,0 +1,10 @@
+(i | i)(n | i) => UNSAT
+(i & n) => UNSAT
+(w | n)(h ^ i) => UNSAT
+(n ^ w) | (h & w)(i | w) => UNSAT
+(i | b)(h ^ w) | (h ^ h) => UNSAT
+(b | w) => UNSAT
+(h ^ w) | (h & h)(n & b) => UNSAT
+(b | n) | (i ^ i) => UNSAT
+(n & h)(w ^ w)(n & i) => UNSAT
+(w | b)(w | b) => UNSAT
